@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+<group android:checkableBehavior="single">
+    <item android:id="@+id/nav_myaccount"
+        android:icon="@drawable/ic_myaccount"
+        android:title="My Account"
+        />
+<!--    these items will stay selected-->
+    <item android:id="@+id/nav_myorders"
+        android:icon="@drawable/ic_yourorders"
+        android:title="My Cart"
+        />
+    <item android:id="@+id/nav_shop"
+        android:title="Shop"
+        android:icon="@drawable/ic_yourorders"/>
+</group>
+    <item android:title="Communicate">
+        <menu>
+<!--            these items will trigger an action like show a toast-->
+            <item android:title="Share"
+                android:id="@+id/nav_share"
+                />
+            <item android:title="Send"
+                android:id="@+id/nav_send"
+                />
+        </menu>
+    </item>
+</menu>
