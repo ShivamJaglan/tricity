@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FindWorkoutActivity2</string>
+    <string name="find_workout">new button</string>
+    <string name="workout">workouts here!</string>
+    <string-array name="workout_types">
+        <item>Chest</item>
+        <item>Biceps</item>
+        <item>Triceps</item>
+        <item>Shoulders</item>
+        </string-array>
+
+</resources>

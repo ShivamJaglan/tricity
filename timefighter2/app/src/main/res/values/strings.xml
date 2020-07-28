@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">T FIGHTER</string>
+    <string name="yourscore">Your Score:%1$d</string>
+    <string name="timeleft">Time Left:%1$d</string>
+    <string name="tapme">TAP ME!</string>
+    <string name="gameOverMessage">GAMEOVER!TIME IS UP!YOUR SCORE WAS:%1$d</string>
+    <string name="aboutMenu">about</string>
+    <string name="aboutTitle">Time Fighter 2</string>
+    <string name="aboutMesssage">Created by Shivam Jaglan</string>
+
+</resources>
