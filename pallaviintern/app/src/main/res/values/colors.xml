@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/black</color>
+    <color name="colorPrimaryDark">@color/black</color>
+<!--    210D10-->
+    <color name="colorAccent">#E54243</color>
+    <color name="dark">#0F0F0F</color>
+
+    <color name="black">#3C3F41</color>
+    <color name="white">#F4F4F4</color>
+    <color name="red">#EA3E30</color>
+    <color name="text">#ffebee</color>
+    
+    <color name="active_dot">#FFFFFF</color>
+    <color name="inactive_dot">#BBBBBB</color>
+</resources>

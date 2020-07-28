@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Jesus Calls</string>
+    <string name="content_url"><![CDATA[https://storage.googleapis.com/gvabox/media/samples/stock.mp4]]></string>
+    <string name="ad_tag_url"><![CDATA[https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/124319096/external/single_ad_samples&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dlinear&correlator=]]></string>
+
+    <string name="check_internet">Please check for Internet connection</string>
+
+    <string name="restriction_server_url_description">URL of Jitsi Meet server instance to connect to</string>
+    <string name="restriction_server_url_title">Server URL</string>
+
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="create_one">Create One!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="account">Account</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="prayer">Prayer</string>
+    <string name="live_tv">Live TV</string>
+
+
+    <string name="donation">Donation</string>
+    <string name="donation_tv">Your donation will be used bu Jesus Calls to bring God\'s love and hope to millions of people who are in sorrow and pain.</string>
+    <string name="reward_tv">"Your reward shall be great."</string>
+    <string name="pay_via_card">Pay via Card</string>
+    <string name="pay_via_net_banking">Pay via Net Banking</string>
+    <string name="pay_via_wallet">Pay via Wallet</string>
+
+    <string name="search_et">search</string>
+    <string name="room_1">Room 1</string>
+    <string name="play">Play Video</string>
+    <string name="play_preview">Play Preview</string>
+    <string name="live_tv_is_not_available">Live TV is Not Available</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="name">username</string>
+    <string name="ur_email">your_email@mail.com</string>
+    <string name="logout">Logout</string>
+
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="user_name">Username</string>
+    <string name="email">Email</string>
+    <string name="confirm_email">Confirm Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="have_an_account">Have an account?</string>
+</resources>

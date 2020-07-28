@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--    <item-->
+<!--        android:id="@+id/navigation_account"-->
+<!--        android:icon="@drawable/ic_baseline_person_outline"-->
+<!--        android:title="@string/account"-->
+<!--        android:checkable="true"-->
+<!--        android:checked="false"-->
+<!--        app:showAsAction="ifRoom"/>-->
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/search_anim"
+        android:title="@string/search"
+        android:checkable="true"
+        android:checked="false"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home_anim"
+        android:title="@string/home"
+        android:checkable="true"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/navigation_prayer"
+        android:icon="@drawable/video_anim"
+        android:title="@string/prayer"
+        android:checkable="true"
+        android:checked="false"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/navigation_live_tv"
+        android:icon="@drawable/live_anim"
+        android:title="@string/live_tv"
+        android:checkable="true"
+        android:checked="false"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/navigation_donation"
+        android:icon="@drawable/love_anim"
+        android:title="@string/donation"
+        android:checkable="true"
+        android:checked="false"
+        app:showAsAction="always"/>
+
+</menu>

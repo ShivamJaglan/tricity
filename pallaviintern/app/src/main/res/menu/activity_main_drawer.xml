@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/slider_name"
+            android:icon="@drawable/account_anim"
+            android:title="@string/name"
+            app:showAsAction="ifRoom"/>
+
+        <item
+            android:id="@+id/slider_email"
+            android:icon="@drawable/email"
+            android:title="@string/email"
+            app:showAsAction="ifRoom"/>
+
+        <item
+            android:id="@+id/slider_spinner"
+            android:icon="@drawable/language_ic"
+            android:title=""
+            android:gravity="start"/>
+
+        <item
+            android:id="@+id/slider_button"
+            android:title=""/>
+
+    </group>
+
+</menu>
